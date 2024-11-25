@@ -2,15 +2,16 @@
 
 # Requirements
 
-> 5 day forecast
-> rain radar
-> wind arrows
-> barometric lines
-> uv index
-> feels like temp
-> outside temp
-> air quality
-> rate of change of air pressure
+[] 5 day forecast
+[] rain radar
+[] wind arrows
+[] barometric lines
+[] uv index
+[] feels like temp
+[] outside temp
+[] air quality
+[] rate of change of air pressure
+[] weather alerts
 
 # data sources
 
