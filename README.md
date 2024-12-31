@@ -27,6 +27,12 @@ https://www.ncei.noaa.gov/cdo-web/api/v2/stations
 
 local weather station
 
+NOAA Nearshore Wave Prediction System
+https://polar.ncep.noaa.gov/nwps/images/rtimages/mfl/nwps/CG1/
+https://polar.ncep.noaa.gov/nwps/nwpsloop.php?site=MFL&loop=wind&cg=1
+
+https://ocean.weather.gov/Atl_tab.php#graphical
+
 # Messaging Protocol
 
 MQTT
