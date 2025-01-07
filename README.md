@@ -33,6 +33,8 @@ https://polar.ncep.noaa.gov/nwps/nwpsloop.php?site=MFL&loop=wind&cg=1
 
 https://ocean.weather.gov/Atl_tab.php#graphical
 
+https://www.ndbc.noaa.gov/data/Forecasts/FZUS52.KMFL.html
+
 # Messaging Protocol
 
 MQTT
