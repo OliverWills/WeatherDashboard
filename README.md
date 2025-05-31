@@ -15,6 +15,17 @@
 
 # data sources
 
+Tamps bay today's highs
+https://www.weather.gov/images/tbw/graphicast/Today.png
+
+Local radar Super Resolution Base Reflectivity 
+https://radar.weather.gov/ridge/standard/KTBW_loop.gif
+
+Local radar Super Resolution Base Velocity 
+https://radar.weather.gov/ridge/standard/base_velocity/KTBW_loop.gif?refreshed=1748722329754
+
+
+
 openweathermap api call
 
 noaa weather radar
