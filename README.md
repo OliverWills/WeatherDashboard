@@ -24,7 +24,11 @@ https://radar.weather.gov/ridge/standard/KTBW_loop.gif
 Local radar Super Resolution Base Velocity 
 https://radar.weather.gov/ridge/standard/base_velocity/KTBW_loop.gif?refreshed=1748722329754
 
+Marine forecast
+https://www.ndbc.noaa.gov/data/Forecasts/FZUS52.KTBW.html
 
+GMZ057
+https://tgftp.nws.noaa.gov/data/raw/fz/fznt24.knhc.off.nt4.txt
 
 openweathermap api call
 
